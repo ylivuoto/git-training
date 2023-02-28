@@ -1,0 +1,3 @@
+* Git training course
+In this repository, here will be all the exercises according the
+assignments of the git course.
